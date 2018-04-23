@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         outputTV = (TextView) findViewById(R.id.outputTV2);
         inputET = (EditText) findViewById(R.id.inputET2);
         smsBTN = (Button)findViewById(R.id.smsBTN);
-
+//hahaha
         sendBTN.setOnClickListener(this);
         callBTN.setOnClickListener(new View.OnClickListener() {
             @Override
